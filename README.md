@@ -7,8 +7,8 @@
 Just import the project folder to NetBeans or your preference editor and start the Server. 
 After that, to run the program please start the server and then start a client/s. There's no need to pass any arguments as everything needed must be entered from the user through the GUI.
 
-// The program is getting the server IP automatically as both the server and client/s are running on the same PC
-// Available commands: 
+// The program is getting the server IP automatically if server and client/s are running on the same PC
+<br>// Available commands: 
 * /who -> showing the connected users
 * /bye -> disconnects and terminates the thread
 
