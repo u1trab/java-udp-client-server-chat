@@ -1,0 +1,12 @@
+/*
+ * Made by TP 4208 - Tz. Antonios | ultrab
+ */
+
+To run the program please start the server and then start the client.
+There's no need to pass any arguments as everything needed must be entered from the user through the GUI.
+
+//The program is getting the server IP automatically as both the server and client/s are running on the same PC
+
+//Available commands: 
+    /who -> showing the connected users
+    /bye -> disconnect and terminate  
