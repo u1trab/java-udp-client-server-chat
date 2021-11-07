@@ -15,5 +15,4 @@ After that, to run the program please start the server and then start a client/s
 ## Screenshots
 ![image](capture.png)
 
-<h5>Tags</h5>
-java, udp, client, server, chat, messenger, multiple users, gui, ui, user interface
+![visitors](https://visitor-badge.glitch.me/badge?page_id=u1trab.java-udp-client-server-chat&left_color=green&right_color=red)
